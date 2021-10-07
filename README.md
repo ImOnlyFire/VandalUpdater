@@ -37,3 +37,6 @@ API Usage: View the [Example](https://github.com/ImOnlyFire/VandalUpdater/tree/m
 
 Simple, just clone this repository with `git clone https://github.com/ImOnlyFire/VandalUpdater.git`
 and then build the project with `mvn clean install`. Your new jar is located at `Updater/target/updater-$VERSION.jar`.
+
+## Well, you're done here
+![yes](meme/giphy.gif)
