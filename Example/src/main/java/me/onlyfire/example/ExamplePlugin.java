@@ -32,6 +32,7 @@ public class ExamplePlugin extends JavaPlugin {
 
         VandalUpdater vandalUpdater = new VandalUpdater(this, resourceId, updateType);
 
+        // If you don't set an update message, VandalUpdater will use a fallback one
         vandalUpdater.setUpdateMessage("Update found! %new% > %old%");
 
         // Checking for updates every 30 minutes
