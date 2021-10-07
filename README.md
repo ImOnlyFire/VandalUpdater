@@ -17,7 +17,7 @@ Then, you need to add the VandalUpdater dependency:
 
 ```pom.xml
 	<dependency>
-	    <groupId>com.github.ImOnlyFire</groupId>
+	    <groupId>com.github.ImOnlyFire.VandalUpdater</groupId>
 	    <artifactId>updater</artifactId>
 	    <version>1.0</version>
 	</dependency>
